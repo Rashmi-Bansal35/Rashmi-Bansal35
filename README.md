@@ -29,7 +29,7 @@ Mastering advanced backend technologies and deploying applications at scale.
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -128,4 +128,3 @@ Mastering advanced backend technologies and deploying applications at scale.
 ---
 [![](https://visitcount.itsvg.in/api?id=Rashmi-Bansal35&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
