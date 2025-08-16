@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rashmi Bansal, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Rashmi Bansal, a B.Tech CSE student | Learning and building projects | Growing step by step 🚀</div>  
   
 
 - 🔭 I’m currently working on Building robust web apps and experimenting with machine learning projects.  
