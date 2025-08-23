@@ -70,16 +70,16 @@ Mastering advanced backend technologies and deploying applications at scale.
 <a href="https://github.com/Rashmi-Bansal35" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/rashmi_bansal" target="_blank">
+<a href="https://x.com/rashmi_bansal35" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/Rashmi Bansal" target="_blank">
+<a href="https://stackoverflow.com/users/31085035/rashmi-bansal" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Rashmi Bansal" target="_blank">
+<a href="https://www.linkedin.com/in/rashmi-bansal-86b824322/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/Rashmi Bansal" target="_blank">
+<a href="https://www.kaggle.com/rashmibansal35" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -89,11 +89,12 @@ Mastering advanced backend technologies and deploying applications at scale.
 
 
 ## Github Stats  
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmi-bansal35&show_icons=true&locale=en&layout=compact" alt="rashmi-bansal35" /></p>
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmi-bansal35&show_icons=true&locale=en&layout=compact" alt="rashmi-bansal35" /></p>
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmi-bansal35&show_icons=true&locale=en" alt="rashmi-bansal35" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmi-bansal35&show_icons=true&locale=en" alt="rashmi-bansal35" /></p>
 
 <br>
 
