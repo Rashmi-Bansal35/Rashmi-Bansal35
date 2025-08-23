@@ -89,7 +89,15 @@ Mastering advanced backend technologies and deploying applications at scale.
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rashmi-Bansal35&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmi-bansal35&show_icons=true&locale=en&layout=compact" alt="rashmi-bansal35" /></p>
+
+<br>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmi-bansal35&show_icons=true&locale=en" alt="rashmi-bansal35" /></p>
+
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmi-bansal35&" alt="rashmi-bansal35" /></p>
 
 <br/>  
 
