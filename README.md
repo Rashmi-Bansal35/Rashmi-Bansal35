@@ -90,18 +90,15 @@ Mastering advanced backend technologies and deploying applications at scale.
 
 ## Github Stats  
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmi-bansal35&show_icons=true&locale=en&layout=compact" alt="rashmi-bansal35" /></p>
+<p align = "center">
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=dark&preferLogin=false" >    <img  alt="Rashmi-Bansal35's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rashmi-Bansal35?cardType=octocat&theme=dark&preferLogin=false" />  </a>
+</p>
 
 <br>
-
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmi-bansal35&show_icons=true&locale=en" alt="rashmi-bansal35" /></p>
-
-<br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmi-bansal35&" alt="rashmi-bansal35" /></p>
-
+<p align = "center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rashmi-Bansal35&theme=dark&card_width=498&card_height=198" alt="GitHub Streak" /></a>
 <br/>  
-
+</p>
 
 
 
