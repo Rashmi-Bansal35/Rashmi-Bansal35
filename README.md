@@ -95,8 +95,7 @@ Mastering advanced backend technologies and deploying applications at scale.
 </p>
 
 <br>
-<p align = "center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rashmi-Bansal35&theme=dark&card_width=498&card_height=198" alt="GitHub Streak" /></a>
+<p align = "center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rashmi-Bansal35&theme=dark" alt="GitHub Streak" /></a>
 <br/>  
 </p>
 
