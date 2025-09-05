@@ -97,6 +97,8 @@ Mastering advanced backend technologies and deploying applications at scale.
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Rashmi-Bansal35&theme=dark&hide_border=true&background=FFFFFF00">
   <br>
   <br>
+
+  ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Rashmi-Bansal35&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 </p>
 
 
