@@ -130,3 +130,6 @@ Mastering advanced backend technologies and deploying applications at scale.
 ---
 [![](https://visitcount.itsvg.in/api?id=Rashmi-Bansal35&icon=4&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+</p>
