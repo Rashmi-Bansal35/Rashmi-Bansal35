@@ -120,7 +120,9 @@ Mastering advanced backend technologies and deploying applications at scale.
 ![](https://github-profile-trophy.vercel.app/?username=Rashmi-Bansal35&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=Redressed&quoteType=quote-for-the-day&fontColor=orange)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rashmi-Bansal35&limit=5&theme=radical&combine_all_yearly_contributions=true)
