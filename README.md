@@ -122,7 +122,7 @@ Mastering advanced backend technologies and deploying applications at scale.
 
 ### ✍️ Random Dev Quote
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=Redressed&quoteType=quote-for-the-day&fontColor=orange)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=churchill&font=Redressed&quoteType=random&fontColor=orange)
 
 
 ### 🔝 Top Contributed Repo
