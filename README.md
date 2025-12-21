@@ -12,7 +12,7 @@
 
   ### 💫 B.Tech CSE | Cloud Tech & Information Security
   
-  *Bridging the gap between secure infrastructure and intelligent code.*
+  *Learning step-by-step to build and secure the web.*
 </div>
 
 
@@ -89,6 +89,40 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmi-Bansal35&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
+
+---
+
+## 🎯 My 2024-2025 Learning Goals
+- [x] **Frontend:** Master HTML, CSS, and basic JavaScript.
+- [ ] **Cloud:** Understand the basics of how AWS and Cloud hosting work.
+- [x] **Security:** Learn the fundamentals of protecting data online.
+- [x] **Project:** Build my first fully responsive personal website.
+
+
+---
+
+## 💡 What Makes Me Unique
+
+<table>
+<tr>
+<td width="50%">
+
+**🛡️ Security Student**
+- I am a learner in **Information Security**. 
+- My goal is to learn how to make the internet a safer place while building my skills.
+
+</td>
+<td width="50%">
+
+**🎨 Frontend Explorer**
+- I love creating the "front" part of websites that people see and use.
+- I am combining my creativity with my tech studies.
+
+</td>
+</tr>
+</table>
+
+> *"On a journey to learn how secure clouds and beautiful websites work together."*
 
 ---
 
