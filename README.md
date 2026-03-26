@@ -96,7 +96,7 @@
 - [ ] **Full Stack:** Level up from HTML/CSS to **React.js** and connect it to a backend.
 - [ ] **Cloud Certification:** Prepare for and clear the **AWS Certified Cloud Practitioner** (or Solutions Architect).
 - [ ] **DevSecOps:** Implement **CI/CD pipelines** (GitHub Actions) with automated security scanning.
-- [ ] **Applied Security:** Participate in **CTFs (Capture The Flag)** or learn **OWASP Top 10** secure coding.
+- [x] **Applied Security:** Participate in **CTFs (Capture The Flag)** or learn **OWASP Top 10** secure coding.
 - [ ] **Capstone Project:** Build a secure, cloud-hosted application to showcase for placements.
 
 
