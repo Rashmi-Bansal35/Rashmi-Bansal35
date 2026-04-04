@@ -43,7 +43,7 @@
 ### 🛠️ Tech Stack & Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,git,docker,bash&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,html,css,git,docker,bash,mysql,vscode&perline=12" />
 </p>
 
 ---
