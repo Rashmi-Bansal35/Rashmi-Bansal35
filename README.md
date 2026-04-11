@@ -33,7 +33,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Skill Progress</h4>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rashmi-Bansal35&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rashmi-Bansal35&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" />
     </td>
   </tr>
 </table>
